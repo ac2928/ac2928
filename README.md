@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Aarav 👋
 
-<!--
-**ac2928/ac2928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business & Information Systems student at NJIT, building web apps with Python, Flask, JavaScript and AI-assisted development.
 
-Here are some ideas to get you started:
+**Looking for:** Summer 2027 internships in solutions engineering or web development (NJ/NYC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- 🛒 [Roomwise](https://ac2928.github.io/roomwise/): smart-home gadget store with cart and checkout
+- 🧮 [OOP Calculator](https://github.com/ac2928/my-oop-calculator): Python CLI with design patterns and 100% test coverage
+- ✊ [Rock-Paper-Scissors](https://github.com/ac2928/my-rps): Flask game with automated browser tests in GitHub Actions
+- 🏛️ [Web Design Museum](https://ac2928.github.io/IS-117-Final-Museum-Project/): scroll-driven exhibit on web design history
+
+📫 [LinkedIn](https://www.linkedin.com/in/aarav-chopra-0189a3360/)
